@@ -2,6 +2,9 @@
 
 End-to-end blog generation for Claude Code: onboard your business, discover keyword opportunities, and write full SEO articles with images and publishing checklists.
 
+> ### ⚡ Want to skip all the setup and get the results directly?
+> Use my paid tool and get it done for you — **[useindexly.com](https://useindexly.com/)**
+
 ## Install
 
 ```bash
