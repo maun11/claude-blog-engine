@@ -46,10 +46,6 @@ Here's a real article written with this engine:
 **[7 Best Cloud ERP Software Tools for Supply Chain and Finance Teams
 ](https://predflow.ai/blog/cloud-erp-software-supply-chain-finance)**
 
-> *"A practical guide to attribution models for D2C performance marketers. Learn which models work, which lie, and how to get numbers you trust."*
-
-Generated from keyword `marketing attribution models` — includes title, meta description, structured sections, images, and a publish-kit checklist with schema markup.
-
 ---
 
 ## API Keys
