@@ -43,7 +43,8 @@ That's it. The install script copies 4 skills to `~/.claude/skills/` so they're 
 
 Here's a real article written with this engine:
 
-**[Marketing Attribution Models: What D2C Brands Need to Know](https://predflow.ai/blog/marketing-attribution-models-what-d2c-brands-need-to-know)**
+**[7 Best Cloud ERP Software Tools for Supply Chain and Finance Teams
+](https://predflow.ai/blog/cloud-erp-software-supply-chain-finance)**
 
 > *"A practical guide to attribution models for D2C performance marketers. Learn which models work, which lie, and how to get numbers you trust."*
 
